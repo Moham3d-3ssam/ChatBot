@@ -9,7 +9,7 @@ let deleteButton = document.querySelector(".typing-area .action-buttons .delete"
 let userMessage = null;
 let isResponseGenerating = false;
 
-let API_KEY = "AIzaSyANy4XV1fVAesaej8FRGPFKxng57OqzGOs";
+let API_KEY = "AIzaSyAeSnoiQBESciKmRCnUzZbAC_mdJ3L5LBc";
 let API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 /* End General */
 /*----------------------------------------------------*/
